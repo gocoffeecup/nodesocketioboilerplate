@@ -1,0 +1,27 @@
+{
+  "name": "boilerplate",
+  "version": "0.0.1",
+  "author": "",
+  "description": "",
+  "contributors": [ 
+    {
+    } 
+  ],
+  "bin": {
+  },
+  "scripts": {
+  },
+  "dependencies" : {
+    "express" : "*",
+    "socket.io" : "*",
+    "jade" : "*",
+    "stylus" : "*"
+  },
+  "devDependencies": {
+    "mocha" : "*"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.6"
+  }
+}
